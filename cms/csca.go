@@ -12,16 +12,15 @@ import (
 )
 
 /*
-* Load the (DE) Master List Root
+* Load the Master List Root
  */
-//go:embed master_list/DE_ROOT_CA_CSCA07.cer
+//go:embed master_list/CSCA.cer
 var masterListRootCA []byte
 
 /*
-* Load the (DE) Master List
+* Load the Master List
  */
-//go:embed master_list/DE_ML_2025-06-25-09-31-57.ml
-// DE_ML_2025-03-05-08-05-28.ml
+//go:embed master_list/NL_MASTERLIST.mls
 var masterList []byte
 
 type CscaMasterList struct {
