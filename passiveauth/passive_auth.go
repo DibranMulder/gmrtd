@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"log/slog"
 
-	"github.com/gmrtd/gmrtd/cms"
-	"github.com/gmrtd/gmrtd/document"
-	"github.com/gmrtd/gmrtd/iso3166"
+	"github.com/dibranmulder/gmrtd/cms"
+	"github.com/dibranmulder/gmrtd/document"
+	"github.com/dibranmulder/gmrtd/iso3166"
 )
 
 func PassiveAuth(doc *document.Document) (err error) {

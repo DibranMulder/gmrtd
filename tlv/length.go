@@ -5,7 +5,7 @@ import (
 	"encoding/binary"
 	"fmt"
 
-	"github.com/gmrtd/gmrtd/utils"
+	"github.com/dibranmulder/gmrtd/utils"
 )
 
 type TlvLength int

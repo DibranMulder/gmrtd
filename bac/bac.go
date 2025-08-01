@@ -7,11 +7,11 @@ import (
 	"fmt"
 	"log/slog"
 
-	"github.com/gmrtd/gmrtd/cryptoutils"
-	"github.com/gmrtd/gmrtd/document"
-	"github.com/gmrtd/gmrtd/iso7816"
-	"github.com/gmrtd/gmrtd/password"
-	"github.com/gmrtd/gmrtd/utils"
+	"github.com/dibranmulder/gmrtd/cryptoutils"
+	"github.com/dibranmulder/gmrtd/document"
+	"github.com/dibranmulder/gmrtd/iso7816"
+	"github.com/dibranmulder/gmrtd/password"
+	"github.com/dibranmulder/gmrtd/utils"
 )
 
 type BAC struct {

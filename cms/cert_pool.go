@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"log/slog"
 
-	"github.com/gmrtd/gmrtd/oid"
-	"github.com/gmrtd/gmrtd/utils"
+	"github.com/dibranmulder/gmrtd/oid"
+	"github.com/dibranmulder/gmrtd/utils"
 )
 
 type CertPool struct {

@@ -5,8 +5,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/gmrtd/gmrtd/oid"
-	"github.com/gmrtd/gmrtd/utils"
+	"github.com/dibranmulder/gmrtd/oid"
+	"github.com/dibranmulder/gmrtd/utils"
 )
 
 func TestNewCardAccessHappyNoData(t *testing.T) {

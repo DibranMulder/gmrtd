@@ -3,9 +3,9 @@ package passiveauth
 import (
 	"testing"
 
-	"github.com/gmrtd/gmrtd/document"
-	"github.com/gmrtd/gmrtd/tlv"
-	"github.com/gmrtd/gmrtd/utils"
+	"github.com/dibranmulder/gmrtd/document"
+	"github.com/dibranmulder/gmrtd/tlv"
+	"github.com/dibranmulder/gmrtd/utils"
 )
 
 /*

@@ -29,10 +29,10 @@ import (
 	"math/big"
 	"slices"
 
-	"github.com/gmrtd/gmrtd/cryptoutils"
-	"github.com/gmrtd/gmrtd/oid"
-	"github.com/gmrtd/gmrtd/tlv"
-	"github.com/gmrtd/gmrtd/utils"
+	"github.com/dibranmulder/gmrtd/cryptoutils"
+	"github.com/dibranmulder/gmrtd/oid"
+	"github.com/dibranmulder/gmrtd/tlv"
+	"github.com/dibranmulder/gmrtd/utils"
 	"github.com/osanderson/brainpool"
 )
 

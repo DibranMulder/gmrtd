@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"fmt"
 
-	"github.com/gmrtd/gmrtd/utils"
+	"github.com/dibranmulder/gmrtd/utils"
 )
 
 type TlvTag int

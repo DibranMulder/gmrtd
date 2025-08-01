@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"slices"
 
-	"github.com/gmrtd/gmrtd/tlv"
-	"github.com/gmrtd/gmrtd/utils"
+	"github.com/dibranmulder/gmrtd/tlv"
+	"github.com/dibranmulder/gmrtd/utils"
 )
 
 const DG7Tag = 0x67

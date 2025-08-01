@@ -7,7 +7,7 @@
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=gmrtd_gmrtd&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=gmrtd_gmrtd)
 [![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=gmrtd_gmrtd&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=gmrtd_gmrtd)
 [![codecov](https://codecov.io/gh/gmrtd/gmrtd/graph/badge.svg?token=DRKVXTREWV)](https://codecov.io/gh/gmrtd/gmrtd)
-[![Go Report Card](https://goreportcard.com/badge/github.com/gmrtd/gmrtd)](https://goreportcard.com/report/github.com/gmrtd/gmrtd)
+[![Go Report Card](https://goreportcard.com/badge/github.com/dibranmulder/gmrtd)](https://goreportcard.com/report/github.com/dibranmulder/gmrtd)
 
 # gmrtd
 Go library for reading Machine Readable Travel Documents (MRTDs), such as Passports and Identity Cards.
@@ -43,7 +43,7 @@ The following are sample documents that have been read:
 
 # Contributors
 
-<a href="https://github.com/gmrtd/gmrtd/graphs/contributors">
+<a href="https://github.com/dibranmulder/gmrtd/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=gmrtd/gmrtd" />
 </a>
 

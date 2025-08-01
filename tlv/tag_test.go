@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/gmrtd/gmrtd/utils"
+	"github.com/dibranmulder/gmrtd/utils"
 )
 
 func TestGetTags(t *testing.T) {

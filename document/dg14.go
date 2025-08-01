@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"slices"
 
-	"github.com/gmrtd/gmrtd/tlv"
+	"github.com/dibranmulder/gmrtd/tlv"
 )
 
 const DG14Tag = 0x6E

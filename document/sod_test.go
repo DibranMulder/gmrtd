@@ -4,8 +4,8 @@ import (
 	"bytes"
 	"testing"
 
-	cms "github.com/gmrtd/gmrtd/cms"
-	"github.com/gmrtd/gmrtd/utils"
+	cms "github.com/dibranmulder/gmrtd/cms"
+	"github.com/dibranmulder/gmrtd/utils"
 )
 
 func TestNewSODNoData(t *testing.T) {

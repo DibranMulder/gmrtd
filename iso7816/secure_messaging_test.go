@@ -5,8 +5,8 @@ import (
 	"slices"
 	"testing"
 
-	"github.com/gmrtd/gmrtd/cryptoutils"
-	"github.com/gmrtd/gmrtd/utils"
+	"github.com/dibranmulder/gmrtd/cryptoutils"
+	"github.com/dibranmulder/gmrtd/utils"
 )
 
 func TestEqual(t *testing.T) {

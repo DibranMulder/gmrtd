@@ -5,7 +5,7 @@ import (
 	"encoding/binary"
 	"fmt"
 
-	"github.com/gmrtd/gmrtd/utils"
+	"github.com/dibranmulder/gmrtd/utils"
 )
 
 const RAPDU_STATUS_SUCCESS = 0x9000

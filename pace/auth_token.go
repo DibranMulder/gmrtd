@@ -7,9 +7,9 @@ import (
 	"log/slog"
 
 	"github.com/aead/cmac"
-	"github.com/gmrtd/gmrtd/cryptoutils"
-	"github.com/gmrtd/gmrtd/oid"
-	"github.com/gmrtd/gmrtd/utils"
+	"github.com/dibranmulder/gmrtd/cryptoutils"
+	"github.com/dibranmulder/gmrtd/oid"
+	"github.com/dibranmulder/gmrtd/utils"
 )
 
 /*

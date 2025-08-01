@@ -4,8 +4,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/gmrtd/gmrtd/mrz"
-	"github.com/gmrtd/gmrtd/utils"
+	"github.com/dibranmulder/gmrtd/mrz"
+	"github.com/dibranmulder/gmrtd/utils"
 )
 
 func TestNewDG11NoData(t *testing.T) {

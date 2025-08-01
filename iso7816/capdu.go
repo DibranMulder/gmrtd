@@ -5,7 +5,7 @@ import (
 	"log"
 	"log/slog"
 
-	"github.com/gmrtd/gmrtd/utils"
+	"github.com/dibranmulder/gmrtd/utils"
 )
 
 type CApdu struct {

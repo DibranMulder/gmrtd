@@ -7,7 +7,7 @@ import (
 	"log"
 	"log/slog"
 
-	"github.com/gmrtd/gmrtd/iso7816"
+	"github.com/dibranmulder/gmrtd/iso7816"
 )
 
 type MasterFile struct {

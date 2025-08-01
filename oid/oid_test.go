@@ -5,7 +5,7 @@ import (
 	"encoding/asn1"
 	"testing"
 
-	"github.com/gmrtd/gmrtd/utils"
+	"github.com/dibranmulder/gmrtd/utils"
 )
 
 func TestOidHasPrefix(t *testing.T) {

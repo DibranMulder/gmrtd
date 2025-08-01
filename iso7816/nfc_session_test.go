@@ -4,8 +4,8 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/gmrtd/gmrtd/cryptoutils"
-	"github.com/gmrtd/gmrtd/utils"
+	"github.com/dibranmulder/gmrtd/cryptoutils"
+	"github.com/dibranmulder/gmrtd/utils"
 )
 
 func TestSelectAidMrtd(t *testing.T) {

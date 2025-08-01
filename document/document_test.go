@@ -4,7 +4,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/gmrtd/gmrtd/utils"
+	"github.com/dibranmulder/gmrtd/utils"
 )
 
 func TestChipAuthStatusString(t *testing.T) {

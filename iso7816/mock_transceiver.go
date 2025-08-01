@@ -3,7 +3,7 @@ package iso7816
 import (
 	"bytes"
 
-	"github.com/gmrtd/gmrtd/utils"
+	"github.com/dibranmulder/gmrtd/utils"
 )
 
 type MockTransceiverReqRsp struct {
