@@ -4,8 +4,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/gmrtd/gmrtd/tlv"
-	"github.com/gmrtd/gmrtd/utils"
+	"github.com/dibranmulder/gmrtd/tlv"
+	"github.com/dibranmulder/gmrtd/utils"
 )
 
 func TestNewDG1NoData(t *testing.T) {

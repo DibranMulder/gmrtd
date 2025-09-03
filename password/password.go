@@ -7,8 +7,8 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/gmrtd/gmrtd/cryptoutils"
-	"github.com/gmrtd/gmrtd/mrz"
+	"github.com/dibranmulder/gmrtd/cryptoutils"
+	"github.com/dibranmulder/gmrtd/mrz"
 )
 
 type PasswordType int

@@ -7,8 +7,8 @@ import (
 	"log/slog"
 	"time"
 
-	"github.com/gmrtd/gmrtd/tlv"
-	"github.com/gmrtd/gmrtd/utils"
+	"github.com/dibranmulder/gmrtd/tlv"
+	"github.com/dibranmulder/gmrtd/utils"
 )
 
 const INS_MANAGE_SE = byte(0x22)

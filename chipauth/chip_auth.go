@@ -7,12 +7,12 @@ import (
 	"fmt"
 	"log/slog"
 
-	"github.com/gmrtd/gmrtd/cryptoutils"
-	"github.com/gmrtd/gmrtd/document"
-	"github.com/gmrtd/gmrtd/iso7816"
-	"github.com/gmrtd/gmrtd/oid"
-	"github.com/gmrtd/gmrtd/tlv"
-	"github.com/gmrtd/gmrtd/utils"
+	"github.com/dibranmulder/gmrtd/cryptoutils"
+	"github.com/dibranmulder/gmrtd/document"
+	"github.com/dibranmulder/gmrtd/iso7816"
+	"github.com/dibranmulder/gmrtd/oid"
+	"github.com/dibranmulder/gmrtd/tlv"
+	"github.com/dibranmulder/gmrtd/utils"
 )
 
 type ChipAuth struct {

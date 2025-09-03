@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"slices"
 
-	"github.com/gmrtd/gmrtd/tlv"
+	"github.com/dibranmulder/gmrtd/tlv"
 )
 
 type EfDirApplication struct {

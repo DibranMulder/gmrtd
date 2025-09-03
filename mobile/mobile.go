@@ -5,9 +5,9 @@ import (
 	"errors"
 	"runtime/debug"
 
-	"github.com/gmrtd/gmrtd/document"
-	"github.com/gmrtd/gmrtd/password"
-	"github.com/gmrtd/gmrtd/reader"
+	"github.com/dibranmulder/gmrtd/document"
+	"github.com/dibranmulder/gmrtd/password"
+	"github.com/dibranmulder/gmrtd/reader"
 )
 
 // bind doesn't like referencing iso7816.Transceiver

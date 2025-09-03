@@ -6,10 +6,10 @@ import (
 	"fmt"
 	"slices"
 
-	cms "github.com/gmrtd/gmrtd/cms"
-	"github.com/gmrtd/gmrtd/oid"
-	"github.com/gmrtd/gmrtd/tlv"
-	"github.com/gmrtd/gmrtd/utils"
+	cms "github.com/dibranmulder/gmrtd/cms"
+	"github.com/dibranmulder/gmrtd/oid"
+	"github.com/dibranmulder/gmrtd/tlv"
+	"github.com/dibranmulder/gmrtd/utils"
 )
 
 /*

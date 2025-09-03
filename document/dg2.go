@@ -18,10 +18,10 @@ import (
 	"fmt"
 	"slices"
 
-	"github.com/gmrtd/gmrtd/document/iso19794"
-	"github.com/gmrtd/gmrtd/document/iso39794"
-	"github.com/gmrtd/gmrtd/tlv"
-	"github.com/gmrtd/gmrtd/utils"
+	"github.com/dibranmulder/gmrtd/document/iso19794"
+	"github.com/dibranmulder/gmrtd/document/iso39794"
+	"github.com/dibranmulder/gmrtd/tlv"
+	"github.com/dibranmulder/gmrtd/utils"
 )
 
 const DG2Tag = 0x75

@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"slices"
 
-	"github.com/gmrtd/gmrtd/tlv"
+	"github.com/dibranmulder/gmrtd/tlv"
 )
 
 const COMTag = 0x60

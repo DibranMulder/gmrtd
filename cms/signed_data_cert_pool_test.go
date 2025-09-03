@@ -3,7 +3,7 @@ package cms
 import (
 	"testing"
 
-	"github.com/gmrtd/gmrtd/utils"
+	"github.com/dibranmulder/gmrtd/utils"
 )
 
 func TestSignedDataCertPoolErrors(t *testing.T) {

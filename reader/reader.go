@@ -8,16 +8,16 @@ import (
 	"log/slog"
 	"runtime/debug"
 
-	"github.com/gmrtd/gmrtd/activeauth"
-	"github.com/gmrtd/gmrtd/bac"
-	"github.com/gmrtd/gmrtd/chipauth"
-	"github.com/gmrtd/gmrtd/cms"
-	"github.com/gmrtd/gmrtd/document"
-	"github.com/gmrtd/gmrtd/iso7816"
-	"github.com/gmrtd/gmrtd/pace"
-	"github.com/gmrtd/gmrtd/passiveauth"
-	"github.com/gmrtd/gmrtd/password"
-	"github.com/gmrtd/gmrtd/utils"
+	"github.com/dibranmulder/gmrtd/activeauth"
+	"github.com/dibranmulder/gmrtd/bac"
+	"github.com/dibranmulder/gmrtd/chipauth"
+	"github.com/dibranmulder/gmrtd/cms"
+	"github.com/dibranmulder/gmrtd/document"
+	"github.com/dibranmulder/gmrtd/iso7816"
+	"github.com/dibranmulder/gmrtd/pace"
+	"github.com/dibranmulder/gmrtd/passiveauth"
+	"github.com/dibranmulder/gmrtd/password"
+	"github.com/dibranmulder/gmrtd/utils"
 )
 
 // TODO - refer to BSI doc.. s5.6 for different inspection flows

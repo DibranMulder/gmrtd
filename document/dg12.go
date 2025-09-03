@@ -7,9 +7,9 @@ import (
 	"log/slog"
 	"slices"
 
-	"github.com/gmrtd/gmrtd/mrz"
-	"github.com/gmrtd/gmrtd/tlv"
-	"github.com/gmrtd/gmrtd/utils"
+	"github.com/dibranmulder/gmrtd/mrz"
+	"github.com/dibranmulder/gmrtd/tlv"
+	"github.com/dibranmulder/gmrtd/utils"
 )
 
 const DG12Tag = 0x6C

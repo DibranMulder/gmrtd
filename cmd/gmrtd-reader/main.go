@@ -11,13 +11,13 @@ import (
 	"log/slog"
 	"os"
 
+	"github.com/dibranmulder/gmrtd/document"
+	"github.com/dibranmulder/gmrtd/iso7816"
+	"github.com/dibranmulder/gmrtd/password"
+	"github.com/dibranmulder/gmrtd/reader"
+	"github.com/dibranmulder/gmrtd/tlv"
+	"github.com/dibranmulder/gmrtd/utils"
 	"github.com/dumacp/smartcard/pcsc"
-	"github.com/gmrtd/gmrtd/document"
-	"github.com/gmrtd/gmrtd/iso7816"
-	"github.com/gmrtd/gmrtd/password"
-	"github.com/gmrtd/gmrtd/reader"
-	"github.com/gmrtd/gmrtd/tlv"
-	"github.com/gmrtd/gmrtd/utils"
 	"github.com/pkg/browser"
 )
 

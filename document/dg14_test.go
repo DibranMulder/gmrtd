@@ -3,7 +3,7 @@ package document
 import (
 	"testing"
 
-	"github.com/gmrtd/gmrtd/utils"
+	"github.com/dibranmulder/gmrtd/utils"
 )
 
 func TestNewDG14NoData(t *testing.T) {

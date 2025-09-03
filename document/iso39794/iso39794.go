@@ -5,7 +5,7 @@ import (
 	"encoding/asn1"
 	"fmt"
 
-	"github.com/gmrtd/gmrtd/utils"
+	"github.com/dibranmulder/gmrtd/utils"
 )
 
 // TODO - the Go ASN1 parser cannot handle CHOICE and seems to be struggling with 'optional' pointer fields

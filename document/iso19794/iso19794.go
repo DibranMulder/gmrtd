@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/gmrtd/gmrtd/utils"
+	"github.com/dibranmulder/gmrtd/utils"
 )
 
 // the following structures are largely borrowed from:

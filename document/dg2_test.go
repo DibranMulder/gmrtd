@@ -6,7 +6,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/gmrtd/gmrtd/utils"
+	"github.com/dibranmulder/gmrtd/utils"
 )
 
 func TestNewDG2NoData(t *testing.T) {

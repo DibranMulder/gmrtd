@@ -1,4 +1,4 @@
-module github.com/gmrtd/gmrtd
+module github.com/dibranmulder/gmrtd
 
 go 1.24.0
 

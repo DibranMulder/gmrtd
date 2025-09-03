@@ -3,7 +3,7 @@ package mobile
 import (
 	"testing"
 
-	"github.com/gmrtd/gmrtd/iso7816"
+	"github.com/dibranmulder/gmrtd/iso7816"
 )
 
 func TestNewPasswordMrz(t *testing.T) {

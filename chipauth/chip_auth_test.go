@@ -5,10 +5,10 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/gmrtd/gmrtd/cryptoutils"
-	"github.com/gmrtd/gmrtd/document"
-	"github.com/gmrtd/gmrtd/iso7816"
-	"github.com/gmrtd/gmrtd/utils"
+	"github.com/dibranmulder/gmrtd/cryptoutils"
+	"github.com/dibranmulder/gmrtd/document"
+	"github.com/dibranmulder/gmrtd/iso7816"
+	"github.com/dibranmulder/gmrtd/utils"
 )
 
 func TestChipAuthAT(t *testing.T) {

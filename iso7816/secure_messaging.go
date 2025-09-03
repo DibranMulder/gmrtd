@@ -9,9 +9,9 @@ import (
 	"math/big"
 
 	"github.com/aead/cmac"
-	"github.com/gmrtd/gmrtd/cryptoutils"
-	"github.com/gmrtd/gmrtd/tlv"
-	"github.com/gmrtd/gmrtd/utils"
+	"github.com/dibranmulder/gmrtd/cryptoutils"
+	"github.com/dibranmulder/gmrtd/tlv"
+	"github.com/dibranmulder/gmrtd/utils"
 )
 
 // SM Data Objects (see [ISO/IEC 7816-4])
